@@ -1,0 +1,1 @@
+<td class="text-center"><button class="btn btn-success btn-block actionbtn"><a href="../includes/admterimadsn.inc.php?dosenId=<?= $dsn["dosenId"]; ?>" onclick="return confirm('Terima akun: <?= $dosenName; ?>?')">Terima</a></button></td>

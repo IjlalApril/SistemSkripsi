@@ -1,0 +1,1 @@
+<td class="text-center"><button class="btn btn-success btn-block actionbtn"><a href="../includes/admterimauser.inc.php?userId=<?= $usr["userId"]; ?>" onclick="return confirm('Terima akun: <?= $userName; ?>?')">Terima</a></button></td>
